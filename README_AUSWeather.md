@@ -83,9 +83,3 @@ The notebook is self-contained: the dataset is loaded directly from a public URL
 
 `scikit-learn` · `pandas` · `Pipeline` · `ColumnTransformer` · `GridSearchCV` · `StratifiedKFold` · `RandomForestClassifier` · `LogisticRegression` · Feature Engineering · Class Imbalance Handling · Confusion Matrix Analysis · Feature Importance Visualisation
 
----
-
-## Author
-
-**Yassine Chakir** — Data Scientist  
-[LinkedIn](https://linkedin.com/in/yassine-chakir-b2aba3247) · yassine.chakir@gmx.de
